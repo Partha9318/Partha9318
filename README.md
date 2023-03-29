@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Partha!
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning C++, Python and Flask 
+- 🌱 I’m currently learning C++ and Flutter
 - 📫 Reach me on parthaptalukdar7@gmail.com
 
 <!---
